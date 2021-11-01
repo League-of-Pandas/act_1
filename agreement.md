@@ -44,7 +44,7 @@ on the weekend every one will complete his or her work in his/her side and if an
 
 ## Work Plan
 ### Workflow type:
-Feature Branches
+Feature branch workflow
 
 all team is agreed on project idea and we all have the passion to complete our project in the right way .
 the work will be equally distributed on members and the members will help each others on their tasks if the need arises.
